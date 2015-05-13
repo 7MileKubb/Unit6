@@ -1,0 +1,103 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic);
+
+body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+	padding-bottom: 50px;
+	font-family: "Futura";
+	font-weight: medium;
+	letter-spacing: 2px;
+}
+
+#header{
+
+	width: 1170px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#logo{
+
+	padding-top: 30px;
+	padding-left: 20px;
+	float: left;
+	width:auto;
+	height:80px;
+	text-align: left;
+}
+
+#nav{
+	padding-top: 50px;
+	float: right;
+	width: 600px;
+	height: 50px;
+	text-align: right;
+}
+
+#nav a {margin-right: 30px;
+	text-decoration: none;
+	color: #fff;
+}
+
+#nav a:hover {
+	color: #ADCFDD;
+}
+
+#banner-holder{
+	background-image: url("http://p1.pichost.me/i/5/1282860.jpg");
+	background-size: cover;
+	height: 600px;
+	width: 100%;
+	padding-bottom: 60px;
+	text-align: center;
+}
+
+#banner-content{width: 1170px;	margin-top: 50px; margin-left: auto; margin-right: auto;
+}
+
+#slogan{
+	font-style: medium;
+}
+
+#main-content{
+	width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 50px;
+}
+
+p, ul {
+
+	padding-left: 250px;
+	padding-right: 250px;
+	padding-top: 30px;
+	text-align: justify;
+	font-family: 'Droid Serif', serif;
+	letter-spacing: 1px;
+
+}
+
+ul {
+	list-style: none;
+	padding-left: 280px;
+	text-decoration: none;
+}
+
+#wrapper{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+
+img{
+	vertical-align: text-top;
+	padding-top: 4px;
+}
+
+
